@@ -6,3 +6,9 @@ Entries:
   id: 1
   time: '2024-10-7T09:17:57.0000000+00:00'
   url: https://github.com/funky-station/funky-station/pull/27
+- author: taydeo
+  changes:
+    - type: Add
+      message: Testing for changelogs
+  id: 2
+  time: '2025-08-25T01:21:40.0000000+00:00'
