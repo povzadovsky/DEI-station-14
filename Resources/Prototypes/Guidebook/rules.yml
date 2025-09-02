@@ -377,3 +377,10 @@
   name: guide-entry-rules-ban-durations
   ruleEntry: true
   text: "/ServerInfo/Guidebook/ServerRules/BanDurations.xml"
+
+- type: guideEntry
+  id: OurRules
+  name: guide-entry-our-rules
+  ruleEntry: true
+  priority: 10
+  text: "/ServerInfo/Guidebook/ServerRules/OurRules.xml"
